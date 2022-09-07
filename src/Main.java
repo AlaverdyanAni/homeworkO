@@ -16,7 +16,6 @@ public class Main {
         Slizerin grexemMontegyu=new Slizerin("Грэхэм Монтегю",42,58,90,64,75,62,48);
         Slizerin gregoryGoyl=new Slizerin("Грегори Гойл",63,75,48,44,75,62,75);
 
-
         System.out.println(harryPoter);
         System.out.println(germionGreinger);
         System.out.println(ronUizli);
@@ -33,7 +32,6 @@ public class Main {
         harryPoter.compareStudents(ronUizli);
         ronUizli.compareStudents(germionGreinger);
         germionGreinger.compareStudents(harryPoter);
-
 
         zaxaryaSmidt.compareStudents(sedrikDiggori);
         sedrikDiggori.compareStudents(jastinFinchFletchli);
